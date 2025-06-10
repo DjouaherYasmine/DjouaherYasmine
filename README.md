@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **my_djouaher@esi.dz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15U5quHl8N4OvAZqa-m68_thMyKJgCVVd/view?usp=sharing](https://drive.google.com/file/d/15U5quHl8N4OvAZqa-m68_thMyKJgCVVd/view?usp=sharing)
+- 📄 [View my resume](https://drive.google.com/file/d/15U5quHl8N4OvAZqa-m68_thMyKJgCVVd/view?usp=sharing)
+
 
   🎓 **Computer Science Engineering Student @ ESI (Algiers, Algeria)**  
 🌐 Passionate about **frontend and mobile development**, UX/UI design, and impactful tech projects.  
