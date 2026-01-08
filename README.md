@@ -1,4 +1,4 @@
-# Yasmine Djouaher
+# DJOUAHER Yasmine
 
  **Fourth-year Computer Science Engineering student**  
  **Specialization: Artificial Intelligence & Data Science**
