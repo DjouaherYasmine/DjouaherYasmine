@@ -2,6 +2,7 @@
 
  **Fourth-year Computer Science Engineering student**  
  **Specialization: Artificial Intelligence & Data Science**
+ 
  **Portfolio:** [here](https://my-portfolio-neon-one-38.vercel.app/)
 
 I’m passionate about transforming raw data into meaningful insights and building intelligent systems that solve real-world problems. My interests span machine learning, predictive modeling, and data-driven decision making.
